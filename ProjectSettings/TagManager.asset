@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - SecondCamera
+  - Interactable
+  - CameraTrackPoint
+  - WaterJug
+  - ScaleCollider
+  - Enemy
+  - EnemyLook
+  - EnemyLook2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Dropable/Interactable
+  - Background
+  - 
+  - 
+  - Scale
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3953465063
+    locked: 0
+  - name: Floor
+    uniqueID: 4049569089
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1477759115
+    locked: 0
+  - name: WaterJug
+    uniqueID: 118336715
+    locked: 0
